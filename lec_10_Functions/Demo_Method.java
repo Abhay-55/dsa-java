@@ -1,4 +1,4 @@
-package lec_10_Functions_Block;
+package lec_10_Functions;
 
 public class Demo_Method {
 

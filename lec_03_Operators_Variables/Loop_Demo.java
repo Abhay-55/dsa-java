@@ -9,8 +9,8 @@ public class Loop_Demo {
 		int i = 1;
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
-		while(i<=n) {
-			System.out.println("This is "+i+" Times");
+		while (i <= n) {
+			System.out.println("This is " + i + " Times");
 			i++;
 		}
 

@@ -1,4 +1,4 @@
-package lec_11_Array_Block;
+package lec_11_Array;
 
 import java.util.Scanner;
 
