@@ -6,13 +6,13 @@ public class Two_Dimentional_Array {
 
 	public static void main(String[] args) {
 		int [][]  arr = new int[3][4];
-		//Adress of the array that holds adress of other 3 arrays.
+		//Address of the array that holds address of other 3 arrays.
 		System.out.println(arr);
-		//Adress of the array for 0th row.
+		//Address of the array for 0th row.
 		System.out.println(arr[0]);
-		//Adress of the array for 1st row.
+		//Address of the array for 1st row.
 		System.out.println(arr[1]);
-		//Adress of the array for 2nd row.
+		//Address of the array for 2nd row.
 		System.out.println(arr[2]);
 		
 /*		 Element of Array
