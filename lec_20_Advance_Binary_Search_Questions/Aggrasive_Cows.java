@@ -11,7 +11,7 @@ public class Aggrasive_Cows {
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
 		while(t>0) {
-			int n = sc.nextInt(); //Number of Stalls
+			int n = sc.nextInt(); //Number of Stalls 
 			int c = sc.nextInt(); //Number of cows
 			int[] stall = new int[n];
 			for(int i = 0;i<stall.length;i++) {
